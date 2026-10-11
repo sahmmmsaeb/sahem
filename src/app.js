@@ -1,0 +1,1 @@
+function seed(){const x=1;eval("x+2");return x}\n
